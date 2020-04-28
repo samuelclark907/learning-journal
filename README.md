@@ -6,7 +6,7 @@
 
 
 ## How to stay in a growth mindset.
-- **Know that failure and experince are the best teachers.**
+- **Know that failure and experience are the best teachers.**
 - **Few get it the first time.**
 - **Learning takes time.**
 
