@@ -1,4 +1,4 @@
-# The first learning journal of Sam
+ # The first learning journal of Sam
 
 
 ### Growth Mindset
@@ -14,6 +14,3 @@ The forward evolution of gaining information and using it in new and learned way
 
 Hello, my name is Sam and I'm a student at Code Fellows
 
-
-
-### Markdown
