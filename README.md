@@ -14,8 +14,8 @@
 Hello, my name is Sam and I'm a student at Code Fellows
 
 ## Markdown
-1. Markdown 
-1. is a 
-1. short way to 
-1. create long content.
+1. *Markdown*
+1. *is a*
+1. *short way to*
+1. *create long content.*
 
