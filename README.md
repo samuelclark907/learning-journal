@@ -1,4 +1,4 @@
- # The first learning journal of Sam
+# The first learning journal of Sam
 
 
 ### Growth Mindset
