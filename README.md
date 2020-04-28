@@ -13,3 +13,6 @@
 
 Hello, my name is Sam and I'm a student at Code Fellows
 
+## Markdown
+Markdown is a short way to create long content.
+
