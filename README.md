@@ -19,3 +19,10 @@ Hello, my name is Sam and I'm a student at Code Fellows
 1. *short way to*
 1. *create long content.*
 
+## Markdown Notes
+
+`#`is for a h1 tag
+
+`##` is for a h2 tag
+
+`**` will make your text bold
