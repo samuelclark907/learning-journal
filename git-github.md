@@ -41,7 +41,7 @@ Flagged a file’s changed version to be committed in the next snapshot
 
 - $ "git push origin master"- will push files.
 
-- $ "git push -f"- will force push all files that you hve locally.
+- $ "git push -f"- will force push all files that you have locally.
 
 
 
