@@ -26,3 +26,9 @@ Hello, my name is Sam and I'm a student at Code Fellows
 `##` is for a h2 tag
 
 `**` will make your text bold
+
+## Table of Contents
+- [tools-terminal](https://github.com/samuelclark907/learning-journal/blob/master/tools-terminal.md)
+- [git-github.md](https://github.com/samuelclark907/learning-journal/blob/master/git-github)
+- [markdown-notes.md]()
+- [growth-mindset.md]()
