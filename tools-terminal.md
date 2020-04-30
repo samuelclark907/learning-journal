@@ -52,4 +52,6 @@ You can identify them easily as they always begin with a forward slash ( / ) | T
 
 *Beware of silly typos.*
 
+[table of contents](https://samuelclark907.github.io/learning-journal/)
+
 
