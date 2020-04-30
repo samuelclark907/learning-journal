@@ -8,4 +8,4 @@
 - **Learning takes time.**
 
 
-Hello, my name is Sam and I'm a student at Code Fellows
+
