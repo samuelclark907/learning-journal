@@ -15,11 +15,33 @@ No backup | More knowledge with certain files | CVC with fail-safe
 - Keeps all of your project files in one repository.
 - Git is the "recipe" Githum is the "bakery".
 
+## States of files in Git
+- Commited
+Data is securely stored in a local database
+
+- Modified
+File has been changed but not committed to the database
+
+- Staged
+Flagged a file’s changed version to be committed in the next snapshot
+
 ## Local Repository structure
 
 1. Working Directory: The actual files reside here.
 1. Index: The area used for staging
 1.  Head: Points to the most recent commit
+
+
+
+- $ "git status"- will determine the state of files.
+
+- $ "git add `*`"- will track all files in a repository.
+
+- $ "git commit -m ''"- will commit your added files with a message.
+
+- $ "git push origin master"- will push files.
+
+- $ "git push -f"- will force push all files that you hve locally.
 
 
 
