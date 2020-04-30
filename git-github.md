@@ -44,5 +44,7 @@ Flagged a file’s changed version to be committed in the next snapshot
 - $ "git push -f"- will force push all files that you have locally.
 
 
+[table of contents](https://samuelclark907.github.io/learning-journal/)
+
 
 
