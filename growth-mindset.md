@@ -10,5 +10,6 @@
 
 - **Learning takes time.**
 
+[table of contents](https://samuelclark907.github.io/learning-journal/)
 
 
