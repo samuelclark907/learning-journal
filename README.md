@@ -5,6 +5,7 @@
 
 ## Table of Contents
 - [tools-terminal](https://samuelclark907.github.io/learning-journal/tools-terminal)
-- [git-github.md](https://samuelclark907.github.io/learning-journal/git-github)
-- [markdown-notes.md](https://samuelclark907.github.io/learning-journal/markdown-notes)
-- [growth-mindset.md](https://samuelclark907.github.io/learning-journal/growth-mindset)
+- [git-github](https://samuelclark907.github.io/learning-journal/git-github)
+- [markdown-notes](https://samuelclark907.github.io/learning-journal/markdown-notes)
+- [growth-mindset](https://samuelclark907.github.io/learning-journal/growth-mindset)
+- [html-notes](https://samuelclark907.github.io/learning-journal/html-notes)
