@@ -10,27 +10,35 @@ No backup | More knowledge with certain files | CVC with fail-safe
 
 
 ## Git
+
 - Git is a Distributed VC that stores data in a file system made up of snapshots.
-- It lets multiple developers wordon the same code.
+
+- It lets multiple developers work on the same code.
+
 - Keeps all of your project files in one repository.
-- Git is the "recipe" Githum is the "bakery".
+
+- Git is the "recipe" Github is the "bakery".
 
 ## States of files in Git
 - Commited
-Data is securely stored in a local database
+Data is securely stored in a local database.
 
 - Modified
-File has been changed but not committed to the database
+File has been changed but not committed to the database.
 
 - Staged
-Flagged a file’s changed version to be committed in the next snapshot
+Flagged a file’s changed version to be committed in the next snapshot.
 
 ## Local Repository structure
 
 1. Working Directory: The actual files reside here.
-1. Index: The area used for staging
-1.  Head: Points to the most recent commit
 
+1. Index: The area used for staging.
+
+1.  Head: Points to the most recent commit.
+
+
+## Terminal Commands
 
 
 - $ "git status"- will determine the state of files.
