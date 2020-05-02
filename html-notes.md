@@ -52,14 +52,14 @@ Using *Size*, *Color*, *Style* to help the user navigate the site is very helpfu
 
 - HTML describes the strcture of pages.
 
-- HTML uses tags (characters that sit inside angled  X brackets) to give the information they surround special meaning.
+- HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning.
 
-- Tags are often referred to as elements. X
+- Tags are often referred to as elements.
 
-- Tags usually come in pairs. The opening tag denotes  X the start of a piece of content; the closing tag denotes the end.
+- Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end.
 
-- Opening tags can carry attributes, which tell us more  X about the content of that element.
+- Opening tags can carry attributes, which tell us more about the content of that element.
 
 - Attributes require a name and a value. 
 
-- To learn HTML you need to know what tags are  X available for you to u
+- To learn HTML you need to know what tags are  available for you to use.
