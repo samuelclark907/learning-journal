@@ -35,14 +35,14 @@
 
 A site map is a diagram that helps you plan the structure and flow of the site.
 
-[Site Map](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F464011567854073042%2F&psig=AOvVaw3hRvIQDXrIpIQ_VgO9w7WO&ust=1588386121998000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCx88bNkekCFQAAAAAdAAAAABAM)
+[Site Map](https://landing.moqups.com/img/content/diagrams/site-maps/ecommerce-shop-sitemap-template.png)
 
 ## Wireframes
 
 A wireframe is a simple sketch of the key information 
 that needs to go on each page of a site.
 
-[Wireframe](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lucidchart.com%2Fpages%2Ftemplates%2Fwireframe&psig=AOvVaw19hmeGdL_2KGChO8B1d_7y&ust=1588386217623000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDy3fXNkekCFQAAAAAdAAAAABAD)
+[Wireframe](https://www.experienceux.co.uk/wp-content/uploads/2015/06/wireframe_example_small.jpg)
 
 ## Visual Hierarchy
 
