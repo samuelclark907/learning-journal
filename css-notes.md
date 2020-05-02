@@ -3,7 +3,7 @@
 
 
 
-# `<link>`
+## `<link>`
 
 The `<link>` element can be used in an HTML document to tell the browser where to find the CSS file used to style the page. It is an empty element (meaning it does not need a closing tag), and it lives inside the `<head>` element. 
 
