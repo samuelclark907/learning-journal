@@ -9,3 +9,7 @@
 - [markdown-notes](https://samuelclark907.github.io/learning-journal/markdown-notes)
 - [growth-mindset](https://samuelclark907.github.io/learning-journal/growth-mindset)
 - [html-notes](https://samuelclark907.github.io/learning-journal/html-notes)
+- [css.notes](https://samuelclark907.github.io/learning-journal/css.notes)
+- [javascripts-notes](https://samuelclark907.github.io/learning-journal/javascript-notes)
+- [markdown-notes](https://samuelclark907.github.io/learning-journal/markdown-notes)
+- [how-computers-work](https://samuelclark907.github.io/learning-journal/how-computers-work)
