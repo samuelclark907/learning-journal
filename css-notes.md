@@ -36,3 +36,6 @@ It should use three attributes:
 percentage.
 
 - lightness - This is expressed as a percentage with 0% being white, 50% being normal, and 100% being black.
+
+[table of contents](https://samuelclark907.github.io/learning-journal/)
+

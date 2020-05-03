@@ -63,3 +63,5 @@ Using *Size*, *Color*, *Style* to help the user navigate the site is very helpfu
 - Attributes require a name and a value. 
 
 - To learn HTML you need to know what tags are  available for you to use.
+
+[table of contents](https://samuelclark907.github.io/learning-journal/)

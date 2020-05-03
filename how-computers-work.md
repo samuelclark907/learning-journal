@@ -57,3 +57,5 @@
 ## Software
 - Tells the CPU what to do.
 - OS or opereating sysytem is the master program that manages how software uses the hardware of the computer.
+
+[table of contents](https://samuelclark907.github.io/learning-journal/)
